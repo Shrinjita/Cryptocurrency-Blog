@@ -1,1 +1,2 @@
-# Cryptocurrency-Blog
+# cryptocurrency
+Cryptocurrency Insights Blog
